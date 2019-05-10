@@ -25,7 +25,7 @@ class App extends React.Component {
     render() {
         return (
             <div>
-                <div style={{ backgroundImage: 'url(/images/background-image.jpeg)', backgroundRepeat: 'none', backgroundPosition: 'center', paddingTop: '150px', paddingBottom: '150px', marginBottom: '10px' }}>
+                <div style={{ backgroundImage: 'url(images/background-image.jpeg)', backgroundRepeat: 'none', backgroundPosition: 'center', paddingTop: '150px', paddingBottom: '150px', marginBottom: '10px' }}>
                     <div className="ui container">
                         <h1 style={{ color: '#ffffff' }}>Find the best stock photos for free</h1>
                         <div>
